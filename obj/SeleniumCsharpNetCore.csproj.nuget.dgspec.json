@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj": {}
+    "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\seleniumC-repo1\\SeleniumCsharpNetCore.csproj": {}
   },
   "projects": {
-    "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj": {
+    "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\seleniumC-repo1\\SeleniumCsharpNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj",
+        "projectUniqueName": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\seleniumC-repo1\\SeleniumCsharpNetCore.csproj",
         "projectName": "SeleniumCsharpNetCore",
-        "projectPath": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj",
+        "projectPath": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\seleniumC-repo1\\SeleniumCsharpNetCore.csproj",
         "packagesPath": "C:\\Users\\gepiti7\\.nuget\\packages\\",
-        "outputPath": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\obj\\",
+        "outputPath": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\seleniumC-repo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

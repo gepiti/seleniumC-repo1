@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aIsF07tmw25ZIBAPsILgBxZ6nPPA7cJmX4hQguGz4Th6ijOhL5iTj6xkad8d+EzSh8rsUSNfMyLaWlCJMkfNzw==",
+  "dgSpecHash": "ekZkxqRFWZtxQhSqbd08WiBS0jBYIPzvavdiEFcsqU6CQduN8BOglXTYtH8duX7RIBbWpzAhK9uo8k8rgkcMXQ==",
   "success": true,
-  "projectFilePath": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj",
+  "projectFilePath": "C:\\all_documents\\_am\\repos_visual_studio\\SeleniumCsharpNetCore\\seleniumC-repo1\\SeleniumCsharpNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gepiti7\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

@@ -74,7 +74,7 @@ namespace SeleniumCsharpNetCore
             < li class="o-itm o-v o-cmbi" data-val="Almond">Almond</li>
             */
 
-            Console.WriteLine("Test1");
+ //           Console.WriteLine("Test1");
             Assert.Pass();
         }
     }
